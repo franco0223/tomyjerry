@@ -1407,6 +1407,11 @@ https://tv.nousiptv.com:8443/Lopera77/872399/1178336
 
 
 
+FLEX TV
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM AR" tvg-logo="https://media.c5n.com/p/a00c210cc8d712239248e2b2011d6726/adjuntos/326/imagenes/000/200/0000200321/1200x675/smart/espn-premium-liga-profesional-argentina.jpg" group-title="ARGENTINA DEPORTES",ESPN PREMIUM AR
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/404426.ts
+
 
 
 
@@ -1936,6 +1941,9 @@ https://moviezona593.com:8443/DANIEL2027/DANIEL2027/1191190
 https://moviezona593.com:8443/DANIEL2027/DANIEL2027/1191191
 #EXTINF:-1 tvg-id="" tvg-name="The Simpsons T13" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7",The Simpsons T13
 https://moviezona593.com:8443/DANIEL2027/DANIEL2027/1191192
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSONS HD" tvg-logo="http://127.0.0.1/" group-title="24/7",24/7 LOS SIMPSONS HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/126495.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 - TOM Y JERRY" tvg-logo="http://descargas.podzone.net/logos2/24-7-tom-y-jerry.png" group-title="24/7",TOM Y JERRY
