@@ -1409,8 +1409,117 @@ https://tv.nousiptv.com:8443/Lopera77/872399/1178336
 
 FLEX TV
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM AR" tvg-logo="https://media.c5n.com/p/a00c210cc8d712239248e2b2011d6726/adjuntos/326/imagenes/000/200/0000200321/1200x675/smart/espn-premium-liga-profesional-argentina.jpg" group-title="ARGENTINA DEPORTES",ESPN PREMIUM AR
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="ARG DEPORTES",ESPN
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/269792.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM AR" tvg-logo="https://media.c5n.com/p/a00c210cc8d712239248e2b2011d6726/adjuntos/326/imagenes/000/200/0000200321/1200x675/smart/espn-premium-liga-profesional-argentina.jpg" group-title="ARG DEPORTES",ESPN PREMIUM AR
 http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/404426.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG I TYC SPORTS " tvg-logo="https://play-lh.googleusercontent.com/UnFKU4pV6JgckUG9v1f8v6Ka8DOsvQzbt1aw4KyKaXP7_vNTEC6P-dONJ4a_f7HRLqDK=w416-h235-rw" group-title="ARG DEPORTES",TYC SPORTS 
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97710.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS SD" tvg-logo="http://flx.lat:8080/images/9ea3d3078da5eeb5b596ce02439dd2af.jpg" group-title="ARG DEPORTES",ARG I T&C SPORTS SD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120636.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 1 HD" tvg-logo="http://flx.lat:8080/images/e5308aa8bb92574804b3eff696c27caa.png" group-title="ARG DEPORTES",ARG | FOX SPORTS 1 HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120634.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="ARG DEPORTES",ARG | FOX SPORTS 2 HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120633.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 3 HD" tvg-logo="http://flx.lat:8080/images/d05ecbde8f2de308085f6693df1f6a79.png" group-title="ARG DEPORTES",ARG | FOX SPORTS 3 HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120632.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TyC Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="ARG DEPORTES",ARG | TyC Sports HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/106104.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TYC Sports OPC 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="ARG DEPORTES",ARG | TYC Sports OPC 2
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/140434.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TYC Sports SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="ARG DEPORTES",ARG | TYC Sports SD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/129438.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXSDwn6wCLfVXPwXevWpRm4aYgYBHlz-WlQ&s" group-title="ARG DEPORTES",ARG | TNT SPORTS
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120641.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXSDwn6wCLfVXPwXevWpRm4aYgYBHlz-WlQ&s" group-title="ARG DEPORTES",ARG | TNT SPORTS HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120637.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ARG | ESPN HD" tvg-logo="http://flx.lat:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="ARG DEPORTES", ARG | ESPN HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120640.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN PREMIUM" tvg-logo="http://flx.lat:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="ARG DEPORTES",ARG | ESPN PREMIUM
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120639.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN PREMIUM" tvg-logo="http://flx.lat:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="ARG DEPORTES",ARG | ESPN PREMIUM
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120638.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DSports | AR ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="ARG DEPORTES",DSports | AR ❆
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/249512.ts
+
+
+
+flex tv arg
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG| NET TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="ARG CANALES ",ARG| NET TV HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97682.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| LA NACION HD" tvg-logo="https://logowik.com/content/uploads/images/la-nacion9955.logowik.com.webp" group-title="ARG CANALES ",ARG| LA NACION HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97684.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| VOLVER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-volver-2016.gif" group-title="ARG CANALES ",ARG| VOLVER HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97685.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| AMERICA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ARG CANALES ",ARG| AMERICA TV HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97674.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| AMERICA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ARG CANALES ",ARG| AMERICA FHD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97675.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE HD" tvg-logo="https://yt3.googleusercontent.com/NvbzRmJuyeZp7HJC8Gly8pqzVSY36wdvhWmb0KQ36idjR-PJfoQpA13GgkWFvZ-Nd8_6xlwVFA=s900-c-k-c0x00ffffff-no-rj" group-title="ARG CANALES ",ARG| EL NUEVE HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97676.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE FHD" tvg-logo="https://yt3.googleusercontent.com/NvbzRmJuyeZp7HJC8Gly8pqzVSY36wdvhWmb0KQ36idjR-PJfoQpA13GgkWFvZ-Nd8_6xlwVFA=s900-c-k-c0x00ffffff-no-rj" group-title="ARG CANALES ",ARG| EL NUEVE FHD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97677.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TRECE  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Eltrece_Internacional_2017.png" group-title="ARG CANALES ",ARG| TRECE  HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97680.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| 24/7 NOTICIAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpgSvzWPrd847ipmyW27BLHAmbcukHq5L-O0b6qDJBfMvUDBgBp-6gQaQ&s=10" group-title="ARG CANALES ",ARG| 24/7 NOTICIAS HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97683.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Canal_10_de_Jun%C3%ADn_%28Logo_Noviembre_2022%29.png" group-title="ARG CANALES ",ARG| CANAL 10 HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97686.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CINEAR  HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAm_9Xv8LMJ6ov8u0t-CXcTGdekH0vVsMWmCrq0JaWokc=s900-c-k-c0x00ffffff-no-rj" group-title="ARG CANALES ",ARG| CINEAR  HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97687.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TN NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="ARG CANALES ",ARG| TN NOTICIAS HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97689.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CRONICA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png/1200px-Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="ARG CANALES ",ARG| CRONICA HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97690.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| A24 HD" tvg-logo="https://i.ytimg.com/vi/ArKbAx1K-2U/hqdefault.jpg?v=685415d4" group-title="ARG CANALES ",ARG| A24 HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97691.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CN23 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Cn23logo2017.png" group-title="ARG CANALES ",ARG| CN23 HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97693.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ENCUENTRO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/800px-Logo_del_canal_Encuentro.svg.png" group-title="ARG CANALES ",ARG | ENCUENTRO HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97694.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| GARAGE  HD" tvg-logo="https://elgarage.com/wp-content/uploads/2021/04/elgaragetv_WEB.png" group-title="ARG CANALES ",ARG| GARAGE  HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97697.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| LA PAMPA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQUywxc_UHPkA-P5duDbxwQX9QHmsZJkREMnDfjqfMvgMc4VzI4eREIw&s=10" group-title="ARG CANALES ",ARG| LA PAMPA TV HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97698.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | UNITEVE  " tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n1fbX7TLjTbh-nPgXMaKf3oNIhFVInZBLXvH9Ff4bPBHM=s900-c-k-c0x00ffffff-no-rj" group-title="ARG CANALES ",ARG | UNITEVE  
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97704.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 22 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ7APZazFUwmkatKqXteRnFgKpg6ZS_gIQ4B36QjIavA&s=10" group-title="ARG CANALES ",ARG| CANAL 22 HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97706.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 4" tvg-logo="https://yt3.googleusercontent.com/0iRWn9dDzgOJHgnCyphfgVacDPhB85mMbAHb7cibSJHoBDIc2U7516EQrK0xA3ywFQZAmfh_Yac=s900-c-k-c0x00ffffff-no-rj" group-title="ARG CANALES ",CANAL 4
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97713.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG : DEPORTV  HD" tvg-logo="https://d3b5jqy5xuub7g.cloudfront.net/wp-content/uploads/2018/11/FichaDeporTV-2.jpg" group-title="ARG CANALES ",ARG : DEPORTV  HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97712.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG I TYC SPORTS " tvg-logo="https://play-lh.googleusercontent.com/UnFKU4pV6JgckUG9v1f8v6Ka8DOsvQzbt1aw4KyKaXP7_vNTEC6P-dONJ4a_f7HRLqDK=w416-h235-rw" group-title="ARG CANALES ",ARG I TYC SPORTS 
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97710.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS SD" tvg-logo="https://play-lh.googleusercontent.com/UnFKU4pV6JgckUG9v1f8v6Ka8DOsvQzbt1aw4KyKaXP7_vNTEC6P-dONJ4a_f7HRLqDK=w416-h235-rw" group-title="ARG CANALES ",ARG I T&C SPORTS SD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97709.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG : Canal 26 HD" tvg-logo="https://yt3.googleusercontent.com/iwy544rQZtfKaTCTqIFUSov8vJk3usPK8bqGzR-JdQwSBEBJiGIacr3v7L3t8w9Xq7Ny6E5z=s900-c-k-c0x00ffffff-no-rj" group-title="ARG CANALES ",ARG : Canal 26 HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97672.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG : Canal 26 FHD" tvg-logo="https://yt3.googleusercontent.com/iwy544rQZtfKaTCTqIFUSov8vJk3usPK8bqGzR-JdQwSBEBJiGIacr3v7L3t8w9Xq7Ny6E5z=s900-c-k-c0x00ffffff-no-rj" group-title="ARG CANALES ",ARG : Canal 26 FHD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97673.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGar_GA4TXM9ijFw1JNFOTOYpEJiuAffL3OpFbVBN7eKuLTyW2RxhrBYr&s=10" group-title="ARG CANALES ",ARG | TNT SPORTS  FHD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97708.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS  HD" tvg-logo="https://play-lh.googleusercontent.com/UnFKU4pV6JgckUG9v1f8v6Ka8DOsvQzbt1aw4KyKaXP7_vNTEC6P-dONJ4a_f7HRLqDK=w416-h235-rw" group-title="ARG CANALES ",ARG I T&C SPORTS  HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97711.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| C5N HD" tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj" group-title="ARG CANALES ",ARG| C5N HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/105110.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TELEFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARG CANALES ",ARG| TELEFE SD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97679.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TELEFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARG CANALES ",ARG| TELEFE HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97678.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TV PUBLICA  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/640px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="ARG CANALES ",ARG| TV PUBLICA  HD
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97696.ts
+
+
 
 
 
