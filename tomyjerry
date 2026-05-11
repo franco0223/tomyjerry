@@ -1901,6 +1901,82 @@ ESPN 7
 #EXTINF:-1 tvg-id="" tvg-logo"" group-title="NETVIDEO ARG",ESPN 7
 http://45.175.140.238:55080/Live/89e3bffaa3f782990dcce83010703a38/local-106_720.m3u8
 
+LEGAZY TV
+
+#EXTINF:-1 tvg-id="americatv.ar" tvg-name="AR| America" tvg-logo="https://i.ibb.co/mNFCHKs/america-tv.png" group-title="LEGAZY TV ARG",AR| America
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/742f93d4-a23a-4bec-b642-b0e51b02ccec.m3u
+#EXTINF:-1 tvg-id="americatv.ar" tvg-name="AR| America ᴴᴰ" tvg-logo="https://i.ibb.co/H7vHjCF/america-hd.png" group-title="LEGAZY TV ARG",AR| America ᴴᴰ
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/1328fbb0-a92d-4bf5-a796-207461db23d6.m3u
+#EXTINF:-1 tvg-id="americatv.ar" tvg-name="AR| America FHD" tvg-logo="https://i.ibb.co/H7vHjCF/america-hd.png" group-title="LEGAZY TV ARG",AR| America FHD
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/976a26ce-58cb-4094-8817-10258ca7913a.m3u
+#EXTINF:-1 tvg-id="c5n.ar" tvg-name="AR| C5N ᴴᴰ" tvg-logo="https://i.ibb.co/8PqTh02/c5n.png" group-title="LEGAZY TV ARG",AR| C5N ᴴᴰ
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/cf1bd265-13d7-423a-9eee-c474be00b9f0.m3u
+#EXTINF:-1 tvg-id="c5n.ar" tvg-name="AR| C5N  HD" tvg-logo="https://i.ibb.co/QFhBszY/c5n-1.png" group-title="LEGAZY TV ARG",AR| C5N  HD
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/0067b4fd-8025-455a-bdf9-de80a5251a6e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AR| Canal 26 ᵁᴴᴰ" tvg-logo="https://i.ibb.co/3s7ScNP/26.png" group-title="LEGAZY TV ARG",AR| Canal 26 ᵁᴴᴰ
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/7c2868e2-a412-4122-8398-fd3c6c2d11b4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AR| Canal 4 Posadas" tvg-logo="https://i.ibb.co/Nrm4Xmg/canal-4-posada.png" group-title="LEGAZY TV ARG",AR| Canal 4 Posadas
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/e8aedb84-d901-4c1f-a06c-5dca2720589f.m3u
+#EXTINF:-1 tvg-id="canal9.ar" tvg-name="AR| Argentinisima ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSme3KO2n4jP4MV4eW2pFgxXKCr4wirNrpQg&usqp=CAU" group-title="LEGAZY TV ARG",AR| Argentinisima ᴴᴰ
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/e0227347-2046-43a3-afc5-7f00718db248.m3u
+#EXTINF:-1 tvg-id="america24.ar" tvg-name="AR| Canal A24 ᴸᴵᵀᴱ" tvg-logo="https://i.ibb.co/ZM1yp0b/a24.png" group-title="LEGAZY TV ARG",AR| Canal A24 ᴸᴵᵀᴱ
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/58abce57-e0a7-45ac-b1a1-08f522273769.m3u
+#EXTINF:-1 tvg-id="america24.ar" tvg-name="AR| Canal A24 ᴴᴰ" tvg-logo="https://i.ibb.co/ZM1yp0b/a24.png" group-title="LEGAZY TV ARG",AR| Canal A24 ᴴᴰ
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/326075e1-cdd1-4006-8c34-ec0c474fa453.m3u
+#EXTINF:-1 tvg-id="cine.ar" tvg-name="AR| Cine AR" tvg-logo="https://i.ibb.co/8NwxhSV/cine-ar.png" group-title="LEGAZY TV ARG",AR| Cine AR
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/8108fa5d-3a72-4514-92ac-df66123767b6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AR| Cine AR HD" tvg-logo="https://lgaz.cc/img/T2cmn6X.png" group-title="LEGAZY TV ARG",AR| Cine AR HD
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/dbabbc86-66a1-411f-8946-5f0ff6bfd472.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AR| Ciudad Magazine ᴴᴰ" tvg-logo="https://i.ibb.co/8rpSC43/ciudad.png" group-title="LEGAZY TV ARG",AR| Ciudad Magazine ᴴᴰ
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/1dc7bb36-1acb-4e71-8205-dde09e6426bc.m3u
+#EXTINF:-1 tvg-id="cronica.ar" tvg-name="AR| Cronica TV ᴴᴰ" tvg-logo="https://i.ibb.co/Z1yCkFY/cronica.png" group-title="LEGAZY TV ARG",AR| Cronica TV ᴴᴰ
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/0e55f1e4-78f2-4787-b04b-466eef8c52c7.m3u
+#EXTINF:-1 tvg-id="canal9.ar" tvg-name="AR| El Nueve ᴴᴰ" tvg-logo="https://i.ibb.co/DWH3L0Q/el-nueve.png" group-title="LEGAZY TV ARG",AR| El Nueve ᴴᴰ
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/634b077f-7d37-46f8-98cd-e34b22ab6753.m3u
+#EXTINF:-1 tvg-id="canal9.ar" tvg-name="AR| El Nueve  HD" tvg-logo="https://i.ibb.co/DWH3L0Q/el-nueve.png" group-title="LEGAZY TV ARG",AR| El Nueve  HD
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/d73c0366-b7b6-4e6a-a12e-794729758aff.m3u
+#EXTINF:-1 tvg-id="canal9.ar" tvg-name="AR| El Nueve FHD" tvg-logo="https://i.ibb.co/MydF2g7/9-hd.png" group-title="LEGAZY TV ARG",AR| El Nueve FHD
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/4ebe0cbd-f0c3-4400-b096-8c515c2b958f.m3u
+#EXTINF:-1 tvg-id="el13.ar" tvg-name="AR| El Trece" tvg-logo="https://i.ibb.co/ssFNV3f/el-trece-1.png" group-title="LEGAZY TV ARG",AR| El Trece
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/ef0dc7f7-9484-42d6-b2f4-17eb4b52a3d4.m3u
+#EXTINF:-1 tvg-id="el13.ar" tvg-name="AR| El Trece HD" tvg-logo="https://i.ibb.co/qM8Q3qk/el-trece.png" group-title="LEGAZY TV ARG",AR| El Trece HD
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/39eb546d-d551-47e4-a3e7-f6a07a4e1fff.m3u
+#EXTINF:-1 tvg-id="el13.ar" tvg-name="AR| El Trece FHD" tvg-logo="https://i.ibb.co/qM8Q3qk/el-trece.png" group-title="LEGAZY TV ARG",AR| El Trece FHD
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/1d1921d4-3e4c-41e3-a439-edfd46e01f8e.m3u
+#EXTINF:-1 tvg-id="247canaldenoticias.ar" tvg-name="AR| LN+" tvg-logo="https://i.ibb.co/HBNbJ1j/LN.png" group-title="LEGAZY TV ARG",AR| LN+
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/a7c63f9a-2016-40b1-99ec-04ec9127b37a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AR| NET TV ᴴᴰ" tvg-logo="https://i.ibb.co/DWhHfhm/net-tv.png" group-title="LEGAZY TV ARG",AR| NET TV ᴴᴰ
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/1cb81c55-73c7-481a-914d-3c7b624e5970.m3u
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="AR| Telefe" tvg-logo="https://i.ibb.co/GW7gN3g/telefe.png" group-title="LEGAZY TV ARG",AR| Telefe
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/c4245583-8399-49da-8fb1-7bcf0ca1977a.m3u
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="AR| Telefe  HD" tvg-logo="https://i.ibb.co/1XCfLwM/telefe-hd.png" group-title="LEGAZY TV ARG",AR| Telefe  HD
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/e981990c-0e17-4de1-bbdd-935af4266b90.m3u
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="AR| Telefe ᴴᴰ" tvg-logo="https://i.ibb.co/GW7gN3g/telefe.png" group-title="LEGAZY TV ARG",AR| Telefe ᴴᴰ
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/55f96c6c-b199-4d41-a39b-b044486447d6.m3u
+#EXTINF:-1 tvg-id="telemax.ar" tvg-name="AR| Telemax ᵁᴴᴰ" tvg-logo="https://lgaz.cc/img/LiTxs7P.png" group-title="LEGAZY TV ARG",AR| Telemax ᵁᴴᴰ
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/59db797e-506d-404e-b041-b0f18b88531c.m3u
+#EXTINF:-1 tvg-id="tn.ar" tvg-name="AR| TN HD" tvg-logo="https://i.ibb.co/Y7dMfBM/TN.png" group-title="LEGAZY TV ARG",AR| TN HD
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/b785099f-80e9-45c1-879f-154ee0c8138a.m3u
+#EXTINF:-1 tvg-id="tvpublica.ar" tvg-name="AR| TV Publica" tvg-logo="https://i.ibb.co/3f7y63F/tvp.png" group-title="LEGAZY TV ARG",AR| TV Publica
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/c383e823-61d0-4b9f-840d-7aa22defcb5b.m3u
+#EXTINF:-1 tvg-id="tvpublica.ar" tvg-name="AR| TV Publica ᴴᴰ" tvg-logo="https://i.ibb.co/3f7y63F/tvp.png" group-title="LEGAZY TV ARG",AR| TV Publica ᴴᴰ
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/afa729f3-4bfe-4732-b954-75dbf117cc0a.m3u
+#EXTINF:-1 tvg-id="tvpublica.ar" tvg-name="AR| TV Publica FHD" tvg-logo="https://i.ibb.co/3f7y63F/tvp.png" group-title="LEGAZY TV ARG",AR| TV Publica FHD
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/7824a647-8c63-486f-95f5-fb2a78c26dab.m3u
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="AR| TYC Sports" tvg-logo="https://lgaz.cc/img/jgINPRk.png" group-title="LEGAZY TV ARG",AR| TYC Sports
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/b1357321-eaa3-43fa-8bf9-7317ffe0821d.m3u
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="AR| TYC Sports  HD" tvg-logo="https://lgaz.cc/img/jgINPRk.png" group-title="LEGAZY TV ARG",AR| TYC Sports  HD
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/0472a09b-fe25-41ce-9306-3bf3e61cebc2.m3u
+#EXTINF:-1 tvg-id="torneosCompetencias.ar" tvg-name="AR| TYC Sports Internacional" tvg-logo="https://lgaz.cc/img/jgINPRk.png" group-title="LEGAZY TV ARG",AR| TYC Sports Internacional
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/8670a53c-72e9-4bd7-a9c9-24a9e2a791f0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AR| TYC Sports Internacional  HD" tvg-logo="https://lgaz.cc/img/jgINPRk.png" group-title="LEGAZY TV ARG",AR| TYC Sports Internacional  HD
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/da03a4dc-0580-4c31-ac9f-e317f5cdeeab.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AR| Volver ᵁᴴᴰ" tvg-logo="https://i.ibb.co/9hjHHBL/volver.png" group-title="LEGAZY TV ARG",AR| Volver ᵁᴴᴰ
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/3fc6488a-3666-4ce4-8102-4987fee0909e.m3u
+
+#EXTINF:-1 tvg-id="espn.ar" tvg-name="ESPN 1 ARG" tvg-logo="https://lgaz.cc/img/r5kftbo.png" group-title="LEGAZY TV ARG",ESPN 1 ARG
+http://xclegazy.vip:8880/live/catracha200/P9cA32HqGxNX/d07415a7-ae0d-4226-a4fb-e4b2ddfeb5a3.m3u
+
 CINE 
 
 
