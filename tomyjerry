@@ -3,7 +3,10 @@ LISTA DE FS CONVERTIDORES
 
 #EXTM3U url-tvg="https://www.open-epg.com/files/uruguay2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,http://satk.pro:2082/xmltv.php?username=patqw28&password=tricio07,https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Argentina/argentina1.xml,http://tv.proyectox.vip:8080/xmltv.php?username=floresdavid1&password=RHaL5uYQaM"
 
+PARTIDOS HOY 
 
+#EXTINF:-1 tvg-id="" tvg-name="EPL | PM | Arsenal vs Burnley" tvg-logo="https://i.ibb.co/kgcY1tqV/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-a297f845.jpg" group-title="PARTIDOS HOY",EPL | PM | Arsenal vs Burnley (04:00 ARG)
+http://liontv.es:8080/Romero907/h39c6twKxZ/1975343
 
 
 
