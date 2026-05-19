@@ -5,6 +5,9 @@ LISTA DE FS CONVERTIDORES
 
 PARTIDOS HOY 
 
+#EXTINF:-1 tvg-id="" tvg-name="EPL | PM | Bournemouth vs Manchester City" tvg-logo="https://i.ibb.co/fdpG2YR5/fs-24-7.png" group-title="PARTIDOS HOY",EPL | PM | Bournemouth vs Manchester City (15:30 ARG)
+http://liontv.es:8080/Romero907/h39c6twKxZ/1975621
+
 #EXTINF:-1 tvg-id="" tvg-name="EPL | PM | Chelsea vs Tottenham Hotspur" tvg-logo="https://i.ibb.co/fdpG2YR5/fs-24-7.png" group-title="PARTIDOS HOY",EPL | PM | Chelsea vs Tottenham Hotspur (ARG) (04:15 ARG)
 http://liontv.es:8080/Romero907/h39c6twKxZ/1975620
 
