@@ -5,8 +5,53 @@ LISTA DE FS CONVERTIDORES
 
 PARTIDOS HOY 
 
-#EXTINF:-1 tvg-id="" tvg-name="EPL | PM | Arsenal vs Burnley" tvg-logo="https://i.ibb.co/kgcY1tqV/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-a297f845.jpg" group-title="PARTIDOS HOY",EPL | PM | Arsenal vs Burnley (04:00 ARG)
-http://liontv.es:8080/Romero907/h39c6twKxZ/1975343
+#EXTINF:-1 tvg-id="" tvg-name="EPL | PM | Chelsea vs Tottenham Hotspur" tvg-logo="https://i.ibb.co/fdpG2YR5/fs-24-7.png" group-title="PARTIDOS HOY",EPL | PM | Chelsea vs Tottenham Hotspur (ARG) (04:15 ARG)
+http://liontv.es:8080/Romero907/h39c6twKxZ/1975620
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Libertadores | PM | Coquimbo Unido  (CHI) vs. Deportes Tolima (COL)" tvg-logo="https://i.ibb.co/fdpG2YR5/fs-24-7.png" group-title="PARTIDOS HOY",Libertadores | PM | Coquimbo Unido  (CHI) vs. Deportes Tolima (COL) (ARG) (07:00 ARG)
+http://liontv.es:8080/Romero907/h39c6twKxZ/1975619
+
+#EXTINF:-1 tvg-id="" tvg-name="Libertadores | PM | Fluminense (BRA) vs. Bolívar (BOL)" tvg-logo="https://i.ibb.co/fdpG2YR5/fs-24-7.png" group-title="PARTIDOS HOY",Libertadores | PM | Fluminense (BRA) vs. Bolívar (BOL) (ARG) (07:00 ARG)
+http://liontv.es:8080/Romero907/h39c6twKxZ/1975618
+
+#EXTINF:-1 tvg-id="" tvg-name="Libertadores | PM | Rosario Central (ARG) vs. Universidad Central (VEN)" tvg-logo="https://i.ibb.co/fdpG2YR5/fs-24-7.png" group-title="PARTIDOS HOY",Libertadores | PM | Rosario Central (ARG) vs. Universidad Central (VEN) (ARG) (07:00 ARG)
+http://liontv.es:8080/Romero907/h39c6twKxZ/1975617
+
+#EXTINF:-1 tvg-id="" tvg-name="Sudamericana | PM | Audax Italiano (CHI) vs. Barracas Central (ARG)" tvg-logo="https://i.ibb.co/fdpG2YR5/fs-24-7.png" group-title="PARTIDOS HOY",Sudamericana | PM | Audax Italiano (CHI) vs. Barracas Central (ARG) (ARG) (07:00 ARG)
+http://liontv.es:8080/Romero907/h39c6twKxZ/1975612
+
+#EXTINF:-1 tvg-id="" tvg-name="Sudamericana | PM | Torque vs Deportivo Riestra" tvg-logo="https://i.ibb.co/fdpG2YR5/fs-24-7.png" group-title="PARTIDOS HOY",Sudamericana | PM | Torque vs Deportivo Riestra (ARG) (07:00 ARG)
+http://liontv.es:8080/Romero907/h39c6twKxZ/1975611
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Libertadores | PM | Always Ready (BOL) vs. Mirassol (BRA)" tvg-logo="https://i.ibb.co/fdpG2YR5/fs-24-7.png" group-title="PARTIDOS HOY",Libertadores | PM | Always Ready (BOL) vs. Mirassol (BRA) (ARG) (09:00 ARG)
+http://liontv.es:8080/Romero907/h39c6twKxZ/1975616
+
+#EXTINF:-1 tvg-id="" tvg-name="Libertadores | PM | Independiente Santa Fe (COL) vs. Platense (ARG)" tvg-logo="https://i.ibb.co/fdpG2YR5/fs-24-7.png" group-title="PARTIDOS HOY",Libertadores | PM | Independiente Santa Fe (COL) vs. Platense (ARG) (ARG) (09:00 ARG)
+http://liontv.es:8080/Romero907/h39c6twKxZ/1975615
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA 01 | PM | Cavaliers vs. Knicks" tvg-logo="https://i.ibb.co/fdpG2YR5/fs-24-7.png" group-title="PARTIDOS HOY",NBA 01 | PM | Cavaliers vs. Knicks (ARG) (09:00 ARG)
+http://liontv.es:8080/Romero907/h39c6twKxZ/1975574
+
+#EXTINF:-1 tvg-id="" tvg-name="Libertadores | PM | Boca Juniors (ARG) vs. Cruzeiro (BRA)" tvg-logo="https://i.ibb.co/fdpG2YR5/fs-24-7.png" group-title="PARTIDOS HOY",Libertadores | PM | Boca Juniors (ARG) vs. Cruzeiro (BRA) (ARG) (09:30 ARG)
+http://liontv.es:8080/Romero907/h39c6twKxZ/1975614
+
+#EXTINF:-1 tvg-id="" tvg-name="Sudamericana | PM | Sao Paulo (BRA) vs. Millonarios (COL)" tvg-logo="https://i.ibb.co/fdpG2YR5/fs-24-7.png" group-title="PARTIDOS HOY",Sudamericana | PM | Sao Paulo (BRA) vs. Millonarios (COL) (ARG) (09:30 ARG)
+http://liontv.es:8080/Romero907/h39c6twKxZ/1975610
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Libertadores | PM | Independiente Del Valle (ECU) vs. Libertad (PAR)" tvg-logo="https://i.ibb.co/fdpG2YR5/fs-24-7.png" group-title="PARTIDOS HOY",Libertadores | PM | Independiente Del Valle (ECU) vs. Libertad (PAR) (ARG) (11:00 ARG)
+http://liontv.es:8080/Romero907/h39c6twKxZ/1975613
+
+#EXTINF:-1 tvg-id="" tvg-name="Sudamericana |PM | América de Cali vs Tigre" tvg-logo="https://i.ibb.co/fdpG2YR5/fs-24-7.png" group-title="PARTIDOS HOY",Sudamericana |PM | América de Cali vs Tigre (ARG) (11:00 ARG)
+http://liontv.es:8080/Romero907/h39c6twKxZ/1975609
+
+#EXTINF:-1 tvg-id="" tvg-name="Sudamericana | PM | Deportivo Cuenca (ECU) vs. Recoleta (PAR)" tvg-logo="https://i.ibb.co/fdpG2YR5/fs-24-7.png" group-title="PARTIDOS HOY",Sudamericana | PM | Deportivo Cuenca (ECU) vs. Recoleta (PAR) (ARG) (11:00 ARG)
+http://liontv.es:8080/Romero907/h39c6twKxZ/1975608
 
 
 
