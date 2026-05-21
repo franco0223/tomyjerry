@@ -2505,6 +2505,67 @@ https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqotHThBnqq0_skvQ28IgoH409Nvo
 https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqonGkNDpA1sxNRbY-m6lxrCA7G_YK1ou-Ach2ZFFzWlJO
 
 
+TV GO
+
+#EXTINF:-1 tvg-id="Argentina.ar" tvg-name="5TV" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/5tv.png" group-title="ARGENTINA",5TV
+http://tvgolat.org:8080//live/cris2025/cris2025/81192.ts
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/a24-hd.png" group-title="ARGENTINA",A24
+http://tvgolat.org:8080//live/cris2025/cris2025/225205.ts
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="AMERICA TV ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/america-tv-hd.png" group-title="ARGENTINA",AMERICA TV ᴴᴰ
+http://tvgolat.org:8080//live/cris2025/cris2025/12262.ts
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-name="ARGENTINISIMA" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/argentinisima.png" group-title="ARGENTINA",ARGENTINISIMA
+http://tvgolat.org:8080//live/cris2025/cris2025/171123.ts
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/c5n.png" group-title="ARGENTINA",C5N
+http://tvgolat.org:8080//live/cris2025/cris2025/81338.ts
+#EXTINF:-1 tvg-id="AR - 26 TV" tvg-name="CANAL 26" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/canal-26.png" group-title="ARGENTINA",CANAL 26
+http://tvgolat.org:8080//live/cris2025/cris2025/225204.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 4 POSADAS" tvg-logo="" group-title="ARGENTINA",CANAL 4 POSADAS
+http://tvgolat.org:8080//live/cris2025/cris2025/270175.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 6 POSADAS" tvg-logo="" group-title="ARGENTINA",CANAL 6 POSADAS
+http://tvgolat.org:8080//live/cris2025/cris2025/270194.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 9 LITORAL" tvg-logo="" group-title="ARGENTINA",CANAL 9 LITORAL
+http://tvgolat.org:8080//live/cris2025/cris2025/270176.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL A" tvg-logo="" group-title="ARGENTINA",CANAL A
+http://tvgolat.org:8080//live/cris2025/cris2025/273070.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL TRECE LA RIOJA" tvg-logo="" group-title="ARGENTINA",CANAL TRECE LA RIOJA
+http://tvgolat.org:8080//live/cris2025/cris2025/270174.ts
+#EXTINF:-1 tvg-id="Argentina.ar" tvg-name="CIUDAD MAGAZINE" tvg-logo="https://www.lyngsat.com/logo/tv/cc/ciudad-magazine-ar.png" group-title="ARGENTINA",CIUDAD MAGAZINE
+http://tvgolat.org:8080//live/cris2025/cris2025/213164.ts
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="CRONICA TV ᴴᴰ" tvg-logo="s:1:/images/HqUpapEDtgqyLHBKj1u6FLkgI5KaRuJSef6R9Rh-Z7jOcErbZwi_g-ANIG1iuoT9.png" group-title="ARGENTINA",CRONICA TV ᴴᴰ
+http://tvgolat.org:8080//live/cris2025/cris2025/171109.ts
+#EXTINF:-1 tvg-id="Argentina.ar" tvg-name="DEPORTV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/deportv-ar.png" group-title="ARGENTINA",DEPORTV
+http://tvgolat.org:8080//live/cris2025/cris2025/201616.ts
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="EL NUEVE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/el-nueve.png" group-title="ARGENTINA",EL NUEVE ᴴᴰ
+http://tvgolat.org:8080//live/cris2025/cris2025/1632.ts
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="EL TRECE INT ᴴᴰ" tvg-logo="s:1:/images/6FYmWj0mLepejWstvih6q9kT6a_uNMbo0tTXJn9VepBFBioZyZ4h0YxgmCw98x6_BNpxn0fnffxo5Hi7mrkdqA.png" group-title="ARGENTINA",EL TRECE INT ᴴᴰ
+http://tvgolat.org:8080//live/cris2025/cris2025/187903.ts
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="EL TRECE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/el-trece-hd.png" group-title="ARGENTINA",EL TRECE ᴴᴰ
+http://tvgolat.org:8080//live/cris2025/cris2025/13226.ts
+#EXTINF:-1 tvg-id="GarageTV.ar" tvg-name="GARAGE TV" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/garage-tv.png" group-title="ARGENTINA",GARAGE TV
+http://tvgolat.org:8080//live/cris2025/cris2025/81322.ts
+#EXTINF:-1 tvg-id="Argentina.ar" tvg-name="LA NACIÓN" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lnplus-ar.png" group-title="ARGENTINA",LA NACIÓN
+http://tvgolat.org:8080//live/cris2025/cris2025/182759.ts
+#EXTINF:-1 tvg-id="" tvg-name="MULTIVISION" tvg-logo="https://multivision.tv/wp-content/uploads/2025/08/cropped-LOGO-ID-WEB-244x67.png" group-title="ARGENTINA",MULTIVISION
+http://tvgolat.org:8080//live/cris2025/cris2025/270165.ts
+#EXTINF:-1 tvg-id="Argentina.ar" tvg-name="NET TV ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-tv-ar.png" group-title="ARGENTINA",NET TV ᴴᴰ
+http://tvgolat.org:8080//live/cris2025/cris2025/213162.ts
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/telefe-hd.png" group-title="ARGENTINA",TELEFE ᴴᴰ
+http://tvgolat.org:8080//live/cris2025/cris2025/1634.ts
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/tn-hd.png" group-title="ARGENTINA",TN ᴴᴰ
+http://tvgolat.org:8080//live/cris2025/cris2025/17704.ts
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV PUBLICA ᴴᴰ" tvg-logo="s:1:/images/OQtmi4nb0Dfw_myw5BqIrYl6ERaRMSqw8ALuQOeK1HV6G4wTqPUbF9OgdrEevBHFRXmAIYPwSEbgGwU20KfkxuV0nEMdt0TScpMiYc-aaxHTLY-IGNmsIoELG-UkL6ptMXrkJ60lgW3rVHzspL1o_w.png" group-title="ARGENTINA",TV PUBLICA ᴴᴰ
+http://tvgolat.org:8080//live/cris2025/cris2025/171115.ts
+#EXTINF:-1 tvg-id="Argentina.ar" tvg-name="VOLVER" tvg-logo="https://www.lyngsat.com/logo/tv/vv/volver-ar.png" group-title="ARGENTINA",VOLVER
+http://tvgolat.org:8080//live/cris2025/cris2025/213163.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS  AR ᴴᴰ" tvg-logo="" group-title="⚽ DEPORTES ARGENTINA",TYC SPORTS  AR ᴴᴰ
+http://tvgolat.org:8080//live/cris2025/cris2025/270167.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | AR ᴴᴰ**" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-hd-ar.png" group-title="⚽ DEPORTES ARGENTINA",TNT SPORTS | AR ᴴᴰ**
+http://tvgolat.org:8080//live/cris2025/cris2025/213161.ts
+
+#EXTINF:-1 tvg-id="TNT Sports Argentina" tvg-name="TNT SPORTS | AR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-hd-ar.png" group-title="⚽ DEPORTES ARGENTINA",TNT SPORTS | AR ᴴᴰ
+http://tvgolat.org:8080//live/cris2025/cris2025/25121.ts
 
 CINE 
 
