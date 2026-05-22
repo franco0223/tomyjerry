@@ -5,51 +5,6 @@ LISTA DE FS CONVERTIDORES
 
 PARTIDOS HOY 
 
-#EXTINF:-1 tvg-id="" tvg-name="Eredivisie | PM | Utrecht vs. Heerenveen" tvg-logo="🏆 EVENTOS PRIME 2 | JUE 21.05.26" group-title="PARTIDOS HOY",Eredivisie | PM | Utrecht vs. Heerenveen (04:00 ARG)
-http://liontv.es:8080/Romero907/h39c6twKxZ/1976098
-
-#EXTINF:-1 tvg-id="" tvg-name="Libertadores | PM | Deportivo La Guaira (VEN) vs. Independiente Rivadavia" tvg-logo="🏆 EVENTOS PRIME 2 | JUE 21.05.26" group-title="PARTIDOS HOY",Libertadores | PM | Deportivo La Guaira (VEN) vs. Independiente Rivadavia (07:00 ARG)
-http://liontv.es:8080/Romero907/h39c6twKxZ/1976108
-
-#EXTINF:-1 tvg-id="" tvg-name="Sudamericana | PM | Atlético Mineiro vs Cienciano" tvg-logo="🏆 EVENTOS PRIME 2 | JUE 21.05.26" group-title="PARTIDOS HOY",Sudamericana | PM | Atlético Mineiro vs Cienciano (07:00 ARG)
-http://liontv.es:8080/Romero907/h39c6twKxZ/1976105
-
-#EXTINF:-1 tvg-id="" tvg-name="Sudamericana | PM | Academia Puerto Cabello vs. Juventud de Las Piedras" tvg-logo="🏆 EVENTOS PRIME 2 | JUE 21.05.26" group-title="PARTIDOS HOY",Sudamericana | PM | Academia Puerto Cabello vs. Juventud de Las Piedras (07:00 ARG)
-http://liontv.es:8080/Romero907/h39c6twKxZ/1976104
-
-#EXTINF:-1 tvg-id="" tvg-name="Sudamericana | PM | Racing Club (ARG) vs. Caracas FC (VEN)" tvg-logo="🏆 EVENTOS PRIME 2 | JUE 21.05.26" group-title="PARTIDOS HOY",Sudamericana | PM | Racing Club (ARG) vs. Caracas FC (VEN) (09:00 ARG)
-http://liontv.es:8080/Romero907/h39c6twKxZ/1976103
-
-#EXTINF:-1 tvg-id="" tvg-name="Libertadores | PM | Peñarol (URU) vs. Corinthians (BRA)" tvg-logo="🏆 EVENTOS PRIME 2 | JUE 21.05.26" group-title="PARTIDOS HOY",Libertadores | PM | Peñarol (URU) vs. Corinthians (BRA) (09:30 ARG)
-http://liontv.es:8080/Romero907/h39c6twKxZ/1976107
-
-#EXTINF:-1 tvg-id="" tvg-name="Libertadores | PM | Universidad Católica (CHI) vs. Barcelona (ECU)" tvg-logo="🏆 EVENTOS PRIME 2 | JUE 21.05.26" group-title="PARTIDOS HOY",Libertadores | PM | Universidad Católica (CHI) vs. Barcelona (ECU) (09:30 ARG)
-http://liontv.es:8080/Romero907/h39c6twKxZ/1976106
-
-#EXTINF:-1 tvg-id="" tvg-name="Sudamericana | PM |  Blooming vs Carabobo" tvg-logo="🏆 EVENTOS PRIME 2 | JUE 21.05.26" group-title="PARTIDOS HOY",Sudamericana | PM |  Blooming vs Carabobo (09:30 ARG)
-http://liontv.es:8080/Romero907/h39c6twKxZ/1976102
-
-#EXTINF:-1 tvg-id="" tvg-name="Liga MX | PM | Cruz Azul vs. Pumas UNAM" tvg-logo="🏆 EVENTOS PRIME 2 | JUE 21.05.26" group-title="PARTIDOS HOY",Liga MX | PM | Cruz Azul vs. Pumas UNAM (11:00 ARG)
-http://liontv.es:8080/Romero907/h39c6twKxZ/1976110
-
-#EXTINF:-1 tvg-id="" tvg-name="Liga MX | PM | Cruz Azul vs. Pumas UNAM OPC2" tvg-logo="🏆 EVENTOS PRIME 2 | JUE 21.05.26" group-title="PARTIDOS HOY",Liga MX | PM | Cruz Azul vs. Pumas UNAM OPC2 (11:00 ARG)
-http://liontv.es:8080/Romero907/h39c6twKxZ/1976109
-
-#EXTINF:-1 tvg-id="" tvg-name="Sudamericana | PM | Macará (ECU) vs. Alianza Atlético (PER)" tvg-logo="🏆 EVENTOS PRIME 2 | JUE 21.05.26" group-title="PARTIDOS HOY",Sudamericana | PM | Macará (ECU) vs. Alianza Atlético (PER) (11:00 ARG)
-http://liontv.es:8080/Romero907/h39c6twKxZ/1976101
-
-#EXTINF:-1 tvg-id="" tvg-name="Eredivisie | AM | Ajax vs. Groningen" tvg-logo="🏆 EVENTOS PRIME 2 | JUE 21.05.26" group-title="PARTIDOS HOY",Eredivisie | AM | Ajax vs. Groningen (13:45 ARG)
-http://liontv.es:8080/Romero907/h39c6twKxZ/1976099
-
-#EXTINF:-1 tvg-id="" tvg-name="Arg Torneo Res | PM | Barracas Central Res. vs Unión Res." tvg-logo="🏆 EVENTOS PRIME 2 | JUE 21.05.26" group-title="PARTIDOS HOY",Arg Torneo Res | PM | Barracas Central Res. vs Unión Res. (15:00 ARG)
-http://liontv.es:8080/Romero907/h39c6twKxZ/1976097
-
-#EXTINF:-1 tvg-id="" tvg-name="SAUDI PRO LEAGUE | PM | Al Nassr vs Damac" tvg-logo="🏆 EVENTOS PRIME 2 | JUE 21.05.26" group-title="PARTIDOS HOY",SAUDI PRO LEAGUE | PM | Al Nassr vs Damac (15:00 ARG)
-http://liontv.es:8080/Romero907/h39c6twKxZ/1976096
-
-#EXTINF:-1 tvg-id="" tvg-name="Bundesliga | PM | Paderborn vs. Wolfsburg" tvg-logo="🏆 EVENTOS PRIME 2 | JUE 21.05.26" group-title="PARTIDOS HOY",Bundesliga | PM | Paderborn vs. Wolfsburg (15:30 ARG)
-http://liontv.es:8080/Romero907/h39c6twKxZ/1976100
-
 Canales Argentinos
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
