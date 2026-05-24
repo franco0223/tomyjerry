@@ -5,6 +5,12 @@ LISTA DE FS CONVERTIDORES
 
 PARTIDOS HOY 
 
+#EXTINF:-1  tvg-logo="https://www.ole.com.ar/2026/05/17/20lvvz3dU_400x400__1.jpg" group-title="PARTIDOS HOY",BELGRANO VS RIVER - ESPN PREMIUM
+http://190.7.19.197:232/play/a038/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://www.ole.com.ar/2026/05/23/a6eUKO5yX_400x400__1.jpg" group-title="PARTIDOS HOY",BELGRANO VS RIVER - TNT SPORTS PREMIUM
+http://190.7.19.197:232/play/a037/index.m3u8
+
 Canales Argentinos
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3049,34 +3055,6 @@ http://jumangis.info:2082/plus49952/PazknMbrQf/501894
 #EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSON TEMPORADA 28 A LA 37" tvg-logo="https://i.postimg.cc/wT1KVNwr/los-simsons.png" group-title="24/7",24/7 LOS SIMPSON TEMPORADA 28 A LA 37
 http://jumangis.info:2082/plus49952/PazknMbrQf/501895
 
-#EXTINF:-1 tvg-id="" tvg-name="Los Simpson T0" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7",Los Simpson T0
-https://moviezona593.com:8443/DANIEL2027/DANIEL2027/1191179
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T1" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7",The Simpsons T1
-https://moviezona593.com:8443/DANIEL2027/DANIEL2027/1191180
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T2" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7",The Simpsons T2
-https://moviezona593.com:8443/DANIEL2027/DANIEL2027/1191181
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T3" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7",The Simpsons T3
-https://moviezona593.com:8443/DANIEL2027/DANIEL2027/1191182
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T4" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7",The Simpsons T4
-https://moviezona593.com:8443/DANIEL2027/DANIEL2027/1191183
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T5" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7",The Simpsons T5
-https://moviezona593.com:8443/DANIEL2027/DANIEL2027/1191184
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T6" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7",The Simpsons T6
-https://moviezona593.com:8443/DANIEL2027/DANIEL2027/1191185
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T7" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7",The Simpsons T7
-https://moviezona593.com:8443/DANIEL2027/DANIEL2027/1191186
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T8" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7",The Simpsons T8
-https://moviezona593.com:8443/DANIEL2027/DANIEL2027/1191187
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T9" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7",The Simpsons T9
-https://moviezona593.com:8443/DANIEL2027/DANIEL2027/1191188
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T10" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7",The Simpsons T10
-https://moviezona593.com:8443/DANIEL2027/DANIEL2027/1191189
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T11" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7",The Simpsons T11
-https://moviezona593.com:8443/DANIEL2027/DANIEL2027/1191190
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T12" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7",The Simpsons T12
-https://moviezona593.com:8443/DANIEL2027/DANIEL2027/1191191
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T13" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7",The Simpsons T13
-https://moviezona593.com:8443/DANIEL2027/DANIEL2027/1191192
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSONS HD" tvg-logo="http://127.0.0.1/" group-title="24/7",24/7 LOS SIMPSONS HD
 http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/126495.ts
