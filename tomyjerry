@@ -5,11 +5,42 @@ LISTA DE FS CONVERTIDORES
 
 PARTIDOS HOY 
 
-#EXTINF:-1  tvg-logo="https://www.ole.com.ar/2026/05/17/20lvvz3dU_400x400__1.jpg" group-title="PARTIDOS HOY",BELGRANO VS RIVER - ESPN PREMIUM
-http://190.7.19.197:232/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="- Grêmio vs Torque - Sudamericana" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="PARTIDOS HOY",- Grêmio vs Torque - Sudamericana (19:00 ARG)
+http://miotv.cc:8080/ArmandoCH27/fc5bc4c5910b/438310
 
-#EXTINF:-1   tvg-logo="https://www.ole.com.ar/2026/05/23/a6eUKO5yX_400x400__1.jpg" group-title="PARTIDOS HOY",BELGRANO VS RIVER - TNT SPORTS PREMIUM
-http://190.7.19.197:232/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="- Lanús (ARG) vs. Mirassol (BRA) - Libertadores" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="PARTIDOS HOY",- Lanús (ARG) vs. Mirassol (BRA) - Libertadores (19:00 ARG)
+http://miotv.cc:8080/ArmandoCH27/fc5bc4c5910b/438311
+
+#EXTINF:-1 tvg-id="" tvg-name="- LDU Quito (ECU) vs. Always Ready (BOL) - Libertadores" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="PARTIDOS HOY",- LDU Quito (ECU) vs. Always Ready (BOL) - Libertadores (19:00 ARG)
+http://miotv.cc:8080/ArmandoCH27/fc5bc4c5910b/438312
+
+#EXTINF:-1 tvg-id="" tvg-name="- Millonarios vs O'Higgins - Sudamericana" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="PARTIDOS HOY",- Millonarios vs O'Higgins - Sudamericana (19:00 ARG)
+http://miotv.cc:8080/ArmandoCH27/fc5bc4c5910b/438313
+
+#EXTINF:-1 tvg-id="" tvg-name="- Palestino (CHI) vs. Deportivo Riestra (ARG) - Sudamericana" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="PARTIDOS HOY",- Palestino (CHI) vs. Deportivo Riestra (ARG) - Sudamericana (19:00 ARG)
+http://miotv.cc:8080/ArmandoCH27/fc5bc4c5910b/438314
+
+#EXTINF:-1 tvg-id="" tvg-name="- São Paulo vs Boston River - Sudamericana" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="PARTIDOS HOY",- São Paulo vs Boston River - Sudamericana (19:00 ARG)
+http://miotv.cc:8080/ArmandoCH27/fc5bc4c5910b/438315
+
+#EXTINF:-1 tvg-id="" tvg-name="- Estudiantes de La Plata (ARG) vs. Independiente de Medellín (COL) - Libertadores" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="PARTIDOS HOY",- Estudiantes de La Plata (ARG) vs. Independiente de Medellín (COL) - Libertadores (21:30 ARG)
+http://miotv.cc:8080/ArmandoCH27/fc5bc4c5910b/438332
+
+#EXTINF:-1 tvg-id="" tvg-name="- Flamengo (BRA) vs. Cusco (PER) - Libertadores" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="PARTIDOS HOY",- Flamengo (BRA) vs. Cusco (PER) - Libertadores (21:30 ARG)
+http://miotv.cc:8080/ArmandoCH27/fc5bc4c5910b/438333
+
+#EXTINF:-1 tvg-id="" tvg-name="- Nacional (URU) vs. Coquimbo Unido (CHI) - Libertadores" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="PARTIDOS HOY",- Nacional (URU) vs. Coquimbo Unido (CHI) - Libertadores (21:30 ARG)
+http://miotv.cc:8080/ArmandoCH27/fc5bc4c5910b/438334
+
+#EXTINF:-1 tvg-id="" tvg-name="- San Lorenzo (ARG) vs. Recoleta (PAR) - Sudamericana" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="PARTIDOS HOY",- San Lorenzo (ARG) vs. Recoleta (PAR) - Sudamericana (21:30 ARG)
+http://miotv.cc:8080/ArmandoCH27/fc5bc4c5910b/438335
+
+#EXTINF:-1 tvg-id="" tvg-name="- Santos vs Deportivo Cuenca - Sudamericana" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="PARTIDOS HOY",- Santos vs Deportivo Cuenca - Sudamericana (21:30 ARG)
+http://miotv.cc:8080/ArmandoCH27/fc5bc4c5910b/438336
+
+#EXTINF:-1 tvg-id="" tvg-name="- Universitario (PER) vs. Deportes Tolima (COL) - Libertadores" tvg-logo="https://i.ibb.co/jvp7PPd7/FS-convertidores-logo.png" group-title="PARTIDOS HOY",- Universitario (PER) vs. Deportes Tolima (COL) - Libertadores (21:30 ARG)
+http://miotv.cc:8080/ArmandoCH27/fc5bc4c5910b/438338
+
 
 Canales Argentinos
 
