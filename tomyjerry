@@ -5,6 +5,14 @@ LISTA DE FS CONVERTIDORES
 
 PARTIDOS HOY 
 
+#EXTINF:-1 tvg-id="" tvg-name="€VENTO 4 | C0p4 L1b3rtad0res | pm UTC-5 | B0ca Jun1ors Vs C4tolica | €$PN2" tvg-logo="https://www.ole.com.ar/futbol-internacional/libertadores/boca-vs-universidad-catolica-hora-ver-tv-online-formaciones-copa-libertadores_0_SFM3su2r3a.html" group-title="PARTIDOS HOY",Boca vs Catolica (21:30 ARG) DISNEY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a8b555a60994518b1cba9bcc82d2332:4ed7fb26fcb84aa8a1d0ba8bb9c6ff95
+%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2Fb3519391-dc5c-4978-b1c3-14a551bb4f49-1778631259738%2F~psid=917147f0-621f-4bd9-aff6-a36864072b74~aid=0a4cb63b-595d-4db9-9a09-2d0b3c244ecb~did=5849e39a-82ca-4483-a47f-2e71fcc08c43~country=CL~kid=k02~hmac=f27e9a11b80d6762026190e8a2ccb53935322e124eeb47619cf39c7b26413a63/gru1/va01/disneyplus/channel/b3519391-dc5c-4978-b1c3-14a551bb4f49-1778631259738/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=d5eb274ec6f5e6580831d64d584a1b2f78801f4e
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="€VENTO 2 | C0p4 L1b3rtad0res | pm UTC-5 | P4lm3iras Vs Jun1or | €$PN2" tvg-logo="https://i.postimg.cc/K4SYZhbz/image.png" group-title="PARTIDOS HOY",Palmeiras vs Junior (19:00 ARG)
 http://cuate.click:8080/nj6909orlando/GAh8xf453h97/647719
 
