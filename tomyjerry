@@ -2555,6 +2555,40 @@ http://tvgolat.org:8080//live/cris2025/cris2025/25121.ts
 REDWORLD
 
 
+#EXTINF:-1 tvg-id="" tvg-name="AR | $ŠPN-1" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="REDWORLD",AR | $ŠPN-1
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/327914
+#EXTINF:-1 tvg-id="" tvg-name="AR | [ĒŠPN-2]" tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="REDWORLD",AR | [ĒŠPN-2]
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/327915
+#EXTINF:-1 tvg-id="" tvg-name="AR | [ÉŠPN-3)" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="REDWORLD",AR | [ÉŠPN-3)
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/327916
+#EXTINF:-1 tvg-id="" tvg-name="AR | [$ŠPN) PREMIUM" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="REDWORLD",AR | [$ŠPN) PREMIUM
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/327917
+#EXTINF:-1 tvg-id="" tvg-name="AR | TYC SPORTS" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="REDWORLD",AR | TYC SPORTS
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/327918
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | F0X $PORTS 1" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="REDWORLD",AR | F0X $PORTS 1
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/328108
+#EXTINF:-1 tvg-id="" tvg-name="AR | F0X $PORTS 2" tvg-logo="http://redworld.pro:8880/images/4e30238679427cf61979378dc815f0ae.png" group-title="REDWORLD",AR | F0X $PORTS 2
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/328109
+#EXTINF:-1 tvg-id="" tvg-name="AR | F0X $PORTS 3" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="REDWORLD",AR | F0X $PORTS 3
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/328110
+#EXTINF:-1 tvg-id="" tvg-name="AR | F0X $PORTS PREMIUM" tvg-logo="http://redworld.pro:8880/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title="REDWORLD",AR | F0X $PORTS PREMIUM
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/328111
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | FUT SPORTS" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="REDWORLD",TNT SPORTS PREMIUM
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/327919
+#EXTINF:-1 tvg-id="" tvg-name="AR | FUT SPORTS OP2" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="REDWORLD",TNT SPORTS PREMIUM
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/327920
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | [ËŠPN] PR3MIUM Opc 2" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="REDWORLD",AR | [ËŠPN] PR3MIUM Opc 2
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/377719
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Deport TV" tvg-logo="http://goldfull.pro:8880/images/418d5555f6030759ca609d5ccaabaaa9.png" group-title="REDWORLD",AR | Deport TV
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/397594
+
+
 #EXTINF:-1 tvg-id="" tvg-name="D3PÖRT3S | [$ŠPN-3]" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="REDWORLD",D3PÖRT3S | [$ŠPN-3]
 http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167725
 #EXTINF:-1 tvg-id="" tvg-name="D3PØRT3S | $ŠPN-4" tvg-logo="http://redworld.pro:8880/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="REDWORLD",D3PØRT3S | $ŠPN-4
@@ -2615,6 +2649,9 @@ http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167728
 http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167730
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SPORTV" tvg-logo="http://redworld.pro:8880/images/20498f15eb9325a86465744668037e26.png" group-title="REDWORLD",DEPORTES | SPORTV
 http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167774
+
+
+
 
 CINE 
 
