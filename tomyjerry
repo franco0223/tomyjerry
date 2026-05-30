@@ -5,33 +5,6 @@ LISTA DE FS CONVERTIDORES
 
 PARTIDOS HOY 
 
-#EXTINF:-1 tvg-id="" tvg-name="€VENTO 4 | C0p4 L1b3rtad0res | pm UTC-5 | B0ca Jun1ors Vs C4tolica | €$PN2" tvg-logo="https://www.ole.com.ar/futbol-internacional/libertadores/boca-vs-universidad-catolica-hora-ver-tv-online-formaciones-copa-libertadores_0_SFM3su2r3a.html" group-title="PARTIDOS HOY",Boca vs Catolica (21:30 ARG) DISNEY
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a8b555a60994518b1cba9bcc82d2332:4ed7fb26fcb84aa8a1d0ba8bb9c6ff95
-%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2Fb3519391-dc5c-4978-b1c3-14a551bb4f49-1778631259738%2F~psid=917147f0-621f-4bd9-aff6-a36864072b74~aid=0a4cb63b-595d-4db9-9a09-2d0b3c244ecb~did=5849e39a-82ca-4483-a47f-2e71fcc08c43~country=CL~kid=k02~hmac=f27e9a11b80d6762026190e8a2ccb53935322e124eeb47619cf39c7b26413a63/gru1/va01/disneyplus/channel/b3519391-dc5c-4978-b1c3-14a551bb4f49-1778631259738/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=d5eb274ec6f5e6580831d64d584a1b2f78801f4e
-
-
-#EXTINF:-1 tvg-id="" tvg-name="€VENTO 2 | C0p4 L1b3rtad0res | pm UTC-5 | P4lm3iras Vs Jun1or | €$PN2" tvg-logo="https://i.postimg.cc/K4SYZhbz/image.png" group-title="PARTIDOS HOY",Palmeiras vs Junior (19:00 ARG)
-http://cuate.click:8080/nj6909orlando/GAh8xf453h97/647719
-
-#EXTINF:-1 tvg-id="" tvg-name="€VENTO 3 | C0p4 L1b3rtad0res | pm UTC-5 | C3rro P0rt3ño Vs $p0rting Çrist4l | €$PN1" tvg-logo="https://i.postimg.cc/1Rgc50PR/image.png" group-title="PARTIDOS HOY",Cerro Porteño vs Porting Cristal (19:00 ARG)
-http://cuate.click:8080/nj6909orlando/GAh8xf453h97/647722
-
-#EXTINF:-1 tvg-id="" tvg-name="€VENTO 1 | C0p4 €cuad0r | pm UTC-5 | N4cional Vs C4t0lica | D$p0rts" tvg-logo="https://i.postimg.cc/yd2RS5Bx/image.png" group-title="PARTIDOS HOY",Nacional vs Catolica (20:00 ARG)
-http://cuate.click:8080/nj6909orlando/GAh8xf453h97/647713
-
-#EXTINF:-1 tvg-id="" tvg-name="€VENTO 4 | C0p4 L1b3rtad0res | pm UTC-5 | B0ca Jun1ors Vs C4tolica | €$PN2" tvg-logo="https://i.postimg.cc/m2CY7btK/image.png" group-title="PARTIDOS HOY",Boca vs Catolica (21:30 ARG)
-http://cuate.click:8080/nj6909orlando/GAh8xf453h97/647725
-
-#EXTINF:-1 tvg-id="" tvg-name="€VENTO 5 | C0p4 L1b3rtad0res | pm UTC-5 | Çruz3iro Vs B4rc3lona | €$PN7" tvg-logo="https://i.postimg.cc/Z5L6DVP7/image.png" group-title="PARTIDOS HOY",Cruzeiro vs Barcelona (21:30 ARG)
-http://cuate.click:8080/nj6909orlando/GAh8xf453h97/647728
-
-#EXTINF:-1 tvg-id="" tvg-name="€VENTO 6 | C0p4 Sud4mericana | pm UTC-5 | T1gr3 Vs Al1anza Atl3tico | €$PN5" tvg-logo="https://i.postimg.cc/25chCyK5/image.png" group-title="PARTIDOS HOY",Tigre vs Alianza Atletico (21:30 ARG)
-http://cuate.click:8080/nj6909orlando/GAh8xf453h97/647731
-
-#EXTINF:-1 tvg-id="" tvg-name="€VENTO 7 | C0p4 Sud4mericana | pm UTC-5 | Am3rica d3 C4li Vs M4cara | €$PN1" tvg-logo="https://i.postimg.cc/Kz1Ljb65/image.png" group-title="PARTIDOS HOY",America De Cali vs Macara (21:30 ARG)
-http://cuate.click:8080/nj6909orlando/GAh8xf453h97/647734
 
 
 
@@ -2576,6 +2549,72 @@ http://tvgolat.org:8080//live/cris2025/cris2025/213161.ts
 
 #EXTINF:-1 tvg-id="TNT Sports Argentina" tvg-name="TNT SPORTS | AR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-hd-ar.png" group-title="TVGO",TNT SPORTS | AR ᴴᴰ
 http://tvgolat.org:8080//live/cris2025/cris2025/25121.ts
+
+
+
+REDWORLD
+
+
+#EXTINF:-1 tvg-id="" tvg-name="D3PÖRT3S | [$ŠPN-3]" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="REDWORLD",D3PÖRT3S | [$ŠPN-3]
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167725
+#EXTINF:-1 tvg-id="" tvg-name="D3PØRT3S | $ŠPN-4" tvg-logo="http://redworld.pro:8880/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="REDWORLD",D3PØRT3S | $ŠPN-4
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167726
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | *ESP*N PREMIUM EXCLUSIVO" tvg-logo="http://redworld.pro:8880/images/71e4e80a43e761809353568e3f2dff5f.png" group-title="REDWORLD",DEPORTES | *ESP*N PREMIUM EXCLUSIVO
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167727
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | *ESP*N U" tvg-logo="http://redworld.pro:8880/images/aa94a21674567eb1ab35b6e3a9408b26.png" group-title="REDWORLD",DEPORTES | *ESP*N U
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167729
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | *$PORTS 1" tvg-logo="http://redworld.pro:8880/images/02fa25039bab7a36031658b571bc59cf.png" group-title="REDWORLD",DEPORTES | *$PORTS 1
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167731
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | *$PORTS +" tvg-logo="http://redworld.pro:8880/images/4b5dbd58c05fa6144858acb4cc3201ea.png" group-title="REDWORLD",DEPORTES | *$PORTS +
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167732
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | *$PORTS 2" tvg-logo="http://redworld.pro:8880/images/ecc2816ea02928aa4f2917d4980b2f9a.png" group-title="REDWORLD",DEPORTES | *$PORTS 2
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167733
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS 1" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="REDWORLD",DEPORTES | F0X $PORTS 1
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167734
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS 2" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="REDWORLD",DEPORTES | F0X $PORTS 2
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167735
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS 3" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="REDWORLD",DEPORTES | F0X $PORTS 3
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167736
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS PREMIUM" tvg-logo="http://redworld.pro:8880/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title="REDWORLD",DEPORTES | F0X $PORTS PREMIUM
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167737
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | WIN SPORTS +" tvg-logo="http://redworld.pro:8880/images/b7594559b9125fc15131b3463e383aa3.png" group-title="REDWORLD",DEPORTES | WIN SPORTS +
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167738
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | WIN SPORTS " tvg-logo="http://redworld.pro:8880/images/b7594559b9125fc15131b3463e383aa3.png" group-title="REDWORLD",DEPORTES | WIN SPORTS 
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167739
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | GOL TV " tvg-logo="http://redworld.pro:8880/images/8f20445ff6725fe29543dae90265239f.png" group-title="REDWORLD",DEPORTES | GOL TV 
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167741
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F1" tvg-logo="http://redworld.pro:8880/images/1a13829ef621f7393ece854690b87731.png" group-title="REDWORLD",DEPORTES | F1
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167742
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | GOLF CHANNEL" tvg-logo="http://redworld.pro:8880/images/89b80113c1ed34f36bfe6936fcf5ed20.png" group-title="REDWORLD",DEPORTES | GOLF CHANNEL
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167746
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TENNIS CHANEL " tvg-logo="http://redworld.pro:8880/images/74d04d280b936817eb8146241d8521c9.png" group-title="REDWORLD",DEPORTES | TENNIS CHANEL 
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167748
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | AFIZZIONADOS" tvg-logo="http://redworld.pro:8880/images/e679f9f23ad226c87b4dd9acaa2fe186.png" group-title="REDWORLD",Deportes | AFIZZIONADOS
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167762
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ADRENALINA" tvg-logo="http://redworld.pro:8880/images/2865df59d49ef3ec9f4381fc018c078c.png" group-title="REDWORLD",DEPORTES | ADRENALINA
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167764
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN" tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="REDWORLD",DEPORTES | TUDN
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167770
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN XTRA" tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="REDWORLD",DEPORTES | TUDN XTRA
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167771
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TVG" tvg-logo="http://redworld.pro:8880/images/d6bd13dae2fc753e0993c6b45644fa17.png" group-title="REDWORLD",DEPORTES | TVG
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167772
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TVG 2" tvg-logo="http://redworld.pro:8880/images/1c1b76b4f7192db1dd44528889d848f9.png" group-title="REDWORLD",DEPORTES | TVG 2
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167773
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TVC Deportes" tvg-logo="http://redworld.pro:8880/images/5766b163e6c57795a1d69de316aa9954.png" group-title="REDWORLD",DEPORTES | TVC Deportes
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167775
+#EXTINF:-1 tvg-id="" tvg-name="*$PORTS 1 (CHI)" tvg-logo="http://redworld.pro:8880/images/02fa25039bab7a36031658b571bc59cf.png" group-title="REDWORLD",*$PORTS 1 (CHI)
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167962
+#EXTINF:-1 tvg-id="" tvg-name="*Ə$P*N 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="REDWORLD",*Ə$P*N 2 (CHI)
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167964
+#EXTINF:-1 tvg-id="ar#espn" tvg-name="*Ə$*PN 3 (CHI)" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="REDWORLD",*Ə$*PN 3 (CHI)
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167965
+#EXTINF:-1 tvg-id="" tvg-name="D3PORTES | *Ê$P*N D3PORTES" tvg-logo="http://redworld.pro:8880/images/f4ba5e57ae936428596903dc26f482cc.png" group-title="REDWORLD",D3PORTES | *Ê$P*N D3PORTES
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167728
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | *ESP*N NEWS" tvg-logo="http://redworld.pro:8880/images/cb88103bd31fe7d6cf58e9a7c023b120.png" group-title="REDWORLD",DEPORTES | *ESP*N NEWS
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167730
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SPORTV" tvg-logo="http://redworld.pro:8880/images/20498f15eb9325a86465744668037e26.png" group-title="REDWORLD",DEPORTES | SPORTV
+http://redworld.pro:8880/Eseriche/a6REHtuMhmf5/167774
 
 CINE 
 
