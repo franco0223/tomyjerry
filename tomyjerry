@@ -8,7 +8,25 @@ LISTA DE FS CONVERTIDORES
 PARTIDOS HOY 
 
 
+MUNDIAL VIX
 
+#EXTINF:-1 tvg-logo="" group-title="MUNDIAL 2026",SEÑAL 1
+http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443023.ts
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDIAL 2026",SEÑAL 2
+http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443025.ts
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDIAL 2026",SEÑAL 3
+http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443027.ts
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDIAL 2026",SEÑAL 4
+http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443029.ts
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDIAL 2026",SEÑAL 5
+http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443031.ts
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDIAL 2026",SEÑAL 6
+http://www.1play.cool:25461/live/PlayCooL0040/77fbe13b8c81/443033.ts
 
 
 Canales Argentinos
@@ -2587,14 +2605,11 @@ http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/126495.ts
 #EXTINF:-1 tvg-id="" tvg-logo"" group-title="24/7",Los Simpsons
 http://45.175.140.238:55080/Live/c5ca127c25ae0620b9776377250dd909/online-24-7_480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - TOM Y JERRY" tvg-logo="http://descargas.podzone.net/logos2/24-7-tom-y-jerry.png" group-title="24/7",TOM Y JERRY
-https://tv.nousiptv.com:8443/Lopera77/872399/46490
-
-#EXTINF:-1 xui-id="440182" tvg-id="" tvg-name="24/7 El Show de Tom y Jerry" tvg-logo="https://www.radiohouse.hn/wp-content/uploads/2016/02/list_640px.jpg" group-title="24/7",El Show de Tom y Jerry
-https://fenixplay.info:8443/play/9RnnIcxcZqz3gJgCTZmUF6hR7nn056g73o0Uy2wHrlUKluFZWDFBo5i9e8DE-Wqc
+#EXTINF:-1 tvg-id="" tvg-logo"" group-title="24/7",Los Simpsons
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Show de Tom y Jerry" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY2YWI1OTAtY2FhZS00MGI1LTk0YjUtYmE3MDk0OGFkMWUyXkEyXkFqcGc@._V1_.jpg" group-title="24/7",24/7 El Show de Tom y Jerry
-http://infinitisurl.com:8080/nj6909orlando/GAh8xf453h97/484494
+http://infinitisurl.com:8080/593Ghxv7/8VtTeEVh/81269
 
 #EXTINF:-1 tvg-logo="" group-title="",
 
